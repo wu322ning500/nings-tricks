@@ -1,0 +1,7 @@
+interface:
+  display_name: "Rain Risk Trip Planner"
+  short_description: "Rank destinations by multi-day rain risk"
+  default_prompt: "Use $rain-risk-trip-planner to compare rainfall risk across several destinations and recommend a multi-day trip plan."
+
+policy:
+  allow_implicit_invocation: true
